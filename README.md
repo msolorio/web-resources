@@ -119,5 +119,3 @@ https://javascriptair.com/episodes/
 
 **Updog - Free and Cheap Web Hosting**
 https://updog.co/
-
-## VIDEOS
