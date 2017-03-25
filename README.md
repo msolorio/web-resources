@@ -115,7 +115,13 @@ http://ejohn.org/apps/learn/
 **Javascript Air podcast**
 https://javascriptair.com/episodes/
 
+**The Web Ahead**
+http://thewebahead.net/
+
 ## COOL STUFF
 
 **Updog - Free and Cheap Web Hosting**
 https://updog.co/
+
+**video source - archive.org**
+https://archive.org/
