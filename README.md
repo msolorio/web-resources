@@ -27,6 +27,9 @@ https://github.com/airbnb/javascript/tree/master/react
 **lifecycle events in react**
 https://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js-aa3796ad85aa?gi=6d21d1d05fdd#.5r227nmdj
 
+**HTTP Status Codes**
+https://httpstatuses.com
+
 **javaScript Event Keycodes**
 http://keycode.info/
 
