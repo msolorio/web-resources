@@ -21,6 +21,9 @@ https://github.com/rwaldron/idiomatic.js
 **ES6**
 http://wiki.ecmascript.org/doku.php?id=harmony:proposals
 
+**Airbnb JS Style Guide**
+https://github.com/airbnb/javascript
+
 **Airbnb React/JSX Style Guide**
 https://github.com/airbnb/javascript/tree/master/react
 
@@ -80,6 +83,9 @@ https://medium.com/
 
 **medium.com - JavaScript Scene**
 https://medium.com/javascript-scene
+
+**Perfection Skills - by Kangax**
+http://perfectionkills.com
 
 **javascriptissexy.com**
 http://javascriptissexy.com/
