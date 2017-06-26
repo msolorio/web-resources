@@ -1,142 +1,175 @@
-## REFERENCE
+## DOCS
 
 **Devdocs.io**
-http://devdocs.io/
+<br/>http://devdocs.io/
 
 :star: **MDN JavaScript Docs**
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
+<br/>https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
-**Clean Code JavaScript**
-https://github.com/ryanmcdermott/clean-code-javascript
+**Express Docs**
+<br/>http://expressjs.com
+
+**Mongoose Docs**
+<br/>http://mongoosejs.com
+
+**MongoDB Docs**
+<br/>https://docs.mongodb.com/manual/
 
 **React Docs**
-https://facebook.github.io/react/docs/hello-world.html
+<br/>https://facebook.github.io/react/docs/hello-world.html
 
-**ECMAscript Spec**
-https://www.ecma-international.org/ecma-262/6.0/
+## EXERCISES
 
-**JavaScript Writing Style**
-https://github.com/rwaldron/idiomatic.js
+:star: **Codepeace**
+<br/>https://www.codewars.com
 
-**ES6**
-http://wiki.ecmascript.org/doku.php?id=harmony:proposals
+**FreeCodeCamp**
+<br/>https://www.freecodecamp.com/
 
-**Airbnb JS Style Guide**
-https://github.com/airbnb/javascript
+**Project Euler Algorithms**
+<br/>https://projecteuler.net/
 
-**Airbnb React/JSX Style Guide**
-https://github.com/airbnb/javascript/tree/master/react
+**Exercism.io**
+<br/>http://exercism.io/
 
-**lifecycle events in react**
-https://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js-aa3796ad85aa?gi=6d21d1d05fdd#.5r227nmdj
+**Massive List of Projects**
+<br/>https://github.com/karan/Projects
+
+**Javascript 30**
+<br/>https://javascript30.com/
+
+**TDD Excercises**
+<br/>http://es6katas.org/
+
+**Learning Advanced Js**
+<br/>http://ejohn.org/apps/learn/
+
+## MISC REFERENCE
+
+**Regex Testers**
+<br/>http://www.regexpal.com
+<br/>http://www.regexr.com
 
 **HTTP Status Codes**
-https://httpstatuses.com
-
-**javaScript Event Keycodes**
-http://keycode.info/
+<br/>https://httpstatuses.com
+<br/>https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 
 **HTML Unicode Characters**
-http://graphemica.com/
+<br/>http://graphemica.com/
+
+## JAVASCRIPT REFERENCE
+
+**ES6**
+<br/>http://wiki.ecmascript.org/doku.php?id=harmony:proposals
+
+**javaScript Event Keycodes**
+<br/>http://keycode.info/
+
+**lifecycle events in react**
+<br/>https://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js-aa3796ad85aa?gi=6d21d1d05fdd#.5r227nmdj
+
+**ECMAscript Spec**
+<br/>https://www.ecma-international.org/ecma-262/6.0/
+
+## JAVASCRIPT STYLE GUIDES
+
+**JavaScript Writing Style**
+<br/>https://github.com/rwaldron/idiomatic.js
+
+**Airbnb JS Style Guide**
+<br/>https://github.com/airbnb/javascript
+
+**Airbnb React/JSX Style Guide**
+<br/>https://github.com/airbnb/javascript/tree/master/react
+
+**Clean Code JavaScript**
+<br/>https://github.com/ryanmcdermott/clean-code-javascript
+
+## CSS REFERENCE
+
+**Can I Use**
+<br/>http://caniuse.com
+
+**CSS Tricks**
+<br/>https://css-tricks.com
 
 **Scalable, Modular CSS Architecture**
-https://smacss.com/
+<br/>https://smacss.com/
+
+## PODCASTS
+
+:star: **Freelancer Podcast**
+<br/>https://devchat.tv/freelancers/
+
+**Javascript Air podcast**
+<br/>https://javascriptair.com/episodes/
+
+**The Web Ahead**
+<br/>http://thewebahead.net/
 
 ## MEDIA
 
 **Unsplash Images**
-https://unsplash.com
+<br/>https://unsplash.com
 
 **video source - archive.org**
-https://archive.org/
+<br/>https://archive.org/
 
 ## READING
 
 **Free Programming Books**
-https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
+<br/>https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
 
-**Launch School Bookshelf**
-https://launchschool.com/books/
+:star: **Launch School Bookshelf**
+<br/>https://launchschool.com/books/
 
 **JavaScript Enlightenment - Cody Lindley - JavaScript Objects**
-http://www.javascriptenlightenment.com/
+<br/>http://www.javascriptenlightenment.com/
 
 **You Don’t Know Js - Kyle Simpson**
-https://github.com/getify/You-Dont-Know-JS/
+<br/>https://github.com/getify/You-Dont-Know-JS/
 
 **Speaking JavaScript - Axel Rauschmayer**
-http://exploringjs.com/
+<br/>http://exploringjs.com/
 
-**Exploring es6**
-http://exploringjs.com/es6.html
+**Exploring ES6**
+<br/>http://exploringjs.com/es6.html
 
 **JavaScript for Cats**
-http://jsforcats.com/#recommended-reading
+<br/>http://jsforcats.com/#recommended-reading
 
 **Eloquent Javascript**
-http://eloquentjavascript.net/
+<br/>http://eloquentjavascript.net/
 
 ## BLOGS
 
 **medium.com**
-https://medium.com/
+<br/>https://medium.com/
 
 **medium.com - JavaScript Scene**
-https://medium.com/javascript-scene
+<br/>https://medium.com/javascript-scene
 
 **Perfection Skills - by Kangax**
-http://perfectionkills.com
+<br/>http://perfectionkills.com
 
 **javascriptissexy.com**
-http://javascriptissexy.com/
+<br/>http://javascriptissexy.com/
 
 ## TUTORIALS
 
 **React.js Fundamentals tutorial**
-https://online.reacttraining.com/p/reactjsfundamentals
-
-**Basic CRUD app with Express / MongoDB / Node**
-https://zellwk.com/blog/crud-express-mongodb/
-
-**CRUD app**
-http://scottksmith.com/blog/2014/05/02/building-restful-apis-with-node/
-
-**http request**
-https://www.kirupa.com/html5/making_http_requests_js.htm
-
-## EXERCISES
-
-**Javascript 30**
-https://javascript30.com/
-
-**FreeCodeCamp**
-https://www.freecodecamp.com/
-
-**Massive List of Projects**
-https://github.com/karan/Projects
-
-**Exercism.io**
-http://exercism.io/
-
-**Project Euler Algorithms**
-https://projecteuler.net/
-
-**TDD Excercises**
-http://es6katas.org/
-
-**Learning Advanced Js**
-http://ejohn.org/apps/learn/
-
-## PODCASTS
-
-**Javascript Air podcast**
-https://javascriptair.com/episodes/
-
-**The Web Ahead**
-http://thewebahead.net/
+<br/>https://online.reacttraining.com/p/reactjsfundamental
 
 ## COOL STUFF
 
 **Updog - Free and Cheap Web Hosting**
-https://updog.co/
+<br/>https://updog.co/
 
+## FREE COMPUTER SCIENCE COURSES
+
+**Stanford Engineering Everywhere**
+<br/>https://see.stanford.edu/Course#Introduction%20to%20Computer%20Science
+
+**MIT Courseware - Bachelor in Computer Science**
+<br/>http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
+<br/>https://ocw.mit.edu/courses/#electrical-engineering-and-computer-science
