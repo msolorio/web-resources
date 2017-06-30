@@ -157,8 +157,26 @@
 
 ## TUTORIALS
 
+**Thinking In React - React Docs**
+<br/>https://facebook.github.io/react/docs/thinking-in-react.html
+
 **React.js Fundamentals tutorial**
 <br/>https://online.reacttraining.com/p/reactjsfundamental
+
+**Getting Started with Redux - Dan Abramov**
+https://egghead.io/courses/getting-started-with-redux
+
+**React Basics - Team Treehouse - Paid**
+<br/>https://teamtreehouse.com/library/react-basics
+
+**React Express**
+http://www.react.express/
+
+**Thinking in React**
+https://www.youtube.com/watch?v=mFEoarLnnqM
+
+**React for Beginners - Wes Bos**
+https://reactforbeginners.com/
 
 ## COOL STUFF
 
