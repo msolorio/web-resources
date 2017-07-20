@@ -18,6 +18,14 @@
 **MongoDB Docs**
 <br/>https://docs.mongodb.com/manual/
 
+## PROJECTS
+
+**Project Ideas**
+<br/>https://github.com/msolorio/project-ideas
+
+**Massive List of Projects**
+<br/>https://github.com/karan/Projects
+
 ## EXERCISES
 
 :star: **Codepeace**
@@ -37,9 +45,6 @@
 
 **Exercism.io**
 <br/>http://exercism.io/
-
-**Massive List of Projects**
-<br/>https://github.com/karan/Projects
 
 **Javascript 30**
 <br/>https://javascript30.com/
