@@ -6,6 +6,9 @@
 :star: **MDN JavaScript Docs**
 <br/>https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
+**React Docs**
+<br/>https://facebook.github.io/react/docs/hello-world.html
+
 **Express Docs**
 <br/>http://expressjs.com
 
@@ -15,13 +18,16 @@
 **MongoDB Docs**
 <br/>https://docs.mongodb.com/manual/
 
-**React Docs**
-<br/>https://facebook.github.io/react/docs/hello-world.html
-
 ## EXERCISES
 
 :star: **Codepeace**
 <br/>https://www.codewars.com
+
+**HackerRank**
+<br/>https://www.hackerrank.com/
+
+**Codefights**
+<br/>https://codefights.com/
 
 **FreeCodeCamp**
 <br/>https://www.freecodecamp.com/
