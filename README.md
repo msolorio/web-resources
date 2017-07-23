@@ -168,6 +168,9 @@
 
 ## TUTORIALS
 
+**Authentication with Passport, Node, and Express**
+<br/>https://scotch.io/tutorials/easy-node-authentication-setup-and-local
+
 **Thinking In React - React Docs**
 <br/>https://facebook.github.io/react/docs/thinking-in-react.html
 
@@ -175,19 +178,19 @@
 <br/>https://online.reacttraining.com/p/reactjsfundamental
 
 **Getting Started with Redux - Dan Abramov**
-https://egghead.io/courses/getting-started-with-redux
+<br/>https://egghead.io/courses/getting-started-with-redux
 
 **React Basics - Team Treehouse - Paid**
 <br/>https://teamtreehouse.com/library/react-basics
 
 **React Express**
-http://www.react.express/
+<br/>http://www.react.express/
 
 **Thinking in React**
-https://www.youtube.com/watch?v=mFEoarLnnqM
+<br/>https://www.youtube.com/watch?v=mFEoarLnnqM
 
 **React for Beginners - Wes Bos**
-https://reactforbeginners.com/
+<br/>https://reactforbeginners.com/
 
 ## COOL STUFF
 
