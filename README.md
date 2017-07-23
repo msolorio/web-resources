@@ -18,6 +18,9 @@
 **MongoDB Docs**
 <br/>https://docs.mongodb.com/manual/
 
+**Passport Docs**
+<br/>https://passportjs.org/docs
+
 ## PROJECTS
 
 **Project Ideas**
