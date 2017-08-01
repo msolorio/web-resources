@@ -85,20 +85,6 @@
 **ECMAscript Spec**
 <br/>https://www.ecma-international.org/ecma-262/6.0/
 
-## JAVASCRIPT STYLE GUIDES
-
-**JavaScript Writing Style**
-<br/>https://github.com/rwaldron/idiomatic.js
-
-**Airbnb JS Style Guide**
-<br/>https://github.com/airbnb/javascript
-
-**Airbnb React/JSX Style Guide**
-<br/>https://github.com/airbnb/javascript/tree/master/react
-
-**Clean Code JavaScript**
-<br/>https://github.com/ryanmcdermott/clean-code-javascript
-
 ## CSS REFERENCE
 
 **Can I Use**
@@ -110,31 +96,18 @@
 **Scalable, Modular CSS Architecture**
 <br/>https://smacss.com/
 
-## PODCASTS
-
-:star: **Freelancer Podcast**
-<br/>https://devchat.tv/freelancers/
-
-**Javascript Air podcast**
-<br/>https://javascriptair.com/episodes/
-
-**The Web Ahead**
-<br/>http://thewebahead.net/
-
-## MEDIA
-
-**Unsplash Images**
-<br/>https://unsplash.com
-
-**video source - archive.org**
-<br/>https://archive.org/
-
 ## READING
 
 **Free Programming Books**
 <br/>https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
 
-:star: **Launch School Bookshelf**
+**Learn Web Development - MDN**
+<br/>https://developer.mozilla.org/en-US/docs/Learn
+
+**Server-side Website Programming - MDN**
+<br/>https://developer.mozilla.org/en-US/docs/Learn/Server-side
+
+**Launch School Bookshelf**
 <br/>https://launchschool.com/books/
 
 **JavaScript Enlightenment - Cody Lindley - JavaScript Objects**
@@ -155,6 +128,39 @@
 **Eloquent Javascript**
 <br/>http://eloquentjavascript.net/
 
+## JAVASCRIPT STYLE GUIDES
+
+**JavaScript Writing Style**
+<br/>https://github.com/rwaldron/idiomatic.js
+
+**Airbnb JS Style Guide**
+<br/>https://github.com/airbnb/javascript
+
+**Airbnb React/JSX Style Guide**
+<br/>https://github.com/airbnb/javascript/tree/master/react
+
+**Clean Code JavaScript**
+<br/>https://github.com/ryanmcdermott/clean-code-javascript
+
+## PODCASTS
+
+:star: **Freelancer Podcast**
+<br/>https://devchat.tv/freelancers/
+
+**Javascript Air podcast**
+<br/>https://javascriptair.com/episodes/
+
+**The Web Ahead**
+<br/>http://thewebahead.net/
+
+## MEDIA
+
+**Unsplash Images**
+<br/>https://unsplash.com
+
+**video source - archive.org**
+<br/>https://archive.org/
+
 ## BLOGS
 
 **medium.com**
@@ -170,6 +176,12 @@
 <br/>http://javascriptissexy.com/
 
 ## TUTORIALS
+
+**Express Tutorial - MDN**
+<br/>https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website
+
+**Django Tutorial - MDN**
+<br/>https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website
 
 **Authentication with Passport, Node, and Express**
 <br/>https://scotch.io/tutorials/easy-node-authentication-setup-and-local
