@@ -220,3 +220,8 @@
 **MIT Courseware - Bachelor in Computer Science**
 <br/>http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 <br/>https://ocw.mit.edu/courses/#electrical-engineering-and-computer-science
+
+## OTHER FREE COURSES
+
+**Learning How to Learn**
+<br/>https://www.coursera.org/learn/learning-how-to-learn
