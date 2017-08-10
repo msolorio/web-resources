@@ -221,7 +221,10 @@
 <br/>http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 <br/>https://ocw.mit.edu/courses/#electrical-engineering-and-computer-science
 
-## OTHER FREE COURSES
+## MORE COURSES
 
-**Learning How to Learn**
+**Learning How to Learn - Coursera**
 <br/>https://www.coursera.org/learn/learning-how-to-learn
+
+**Machine Learning - Coursera, Andrew Ng**
+<br/>https://www.coursera.org/learn/machine-learning
