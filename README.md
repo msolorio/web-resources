@@ -110,6 +110,11 @@
 **Launch School Bookshelf**
 <br/>https://launchschool.com/books/
 
+## JAVASCRIPT READING
+
+**Learning JavaScript Design Patterns - Addy Osmani**
+<br/>https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
 **JavaScript Enlightenment - Cody Lindley - JavaScript Objects**
 <br/>http://www.javascriptenlightenment.com/
 
@@ -127,6 +132,9 @@
 
 **Eloquent Javascript**
 <br/>http://eloquentjavascript.net/
+
+**Developing Backbone.js Applications - Addy Osmani**
+<br/>https://addyosmani.com/backbone-fundamentals/
 
 ## JAVASCRIPT STYLE GUIDES
 
