@@ -31,7 +31,7 @@
 
 ## EXERCISES
 
-:star: **Codepeace**
+**Codepeace**
 <br/>https://www.codewars.com
 
 **HackerRank**
@@ -42,6 +42,9 @@
 
 **FreeCodeCamp**
 <br/>https://www.freecodecamp.com/
+
+**Code Abbey**
+<br/>http://www.codeabbey.com
 
 **Project Euler Algorithms**
 <br/>https://projecteuler.net/
