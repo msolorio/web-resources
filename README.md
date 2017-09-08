@@ -1,6 +1,9 @@
+# WEB RESOURCES
+A collection of web resources and favorites
+
 ## TABLE OF CONTENTS
 
-<br/>**[DOCS](#docs)**
+**[DOCS](#docs)**
 <br/>**[PROJECTS](#projects)**
 <br/>**[EXERCISES](#exercises)**
 <br/>**[MISC REFERENCE](#misc-reference)**
@@ -27,6 +30,15 @@
 
 **React Docs**
 <br/>https://facebook.github.io/react/docs/hello-world.html
+
+**Redux Docs**
+<br/>http://redux.js.org/
+
+**React Router Docs**
+<br/>https://reacttraining.com/react-router/
+
+**Webpack Docs**
+<br/>https://webpack.github.io/docs/
 
 **Express Docs**
 <br/>http://expressjs.com
