@@ -1,3 +1,22 @@
+## TABLE OF CONTENTS
+
+<br/>**[DOCS](#docs)**
+<br/>**[PROJECTS](#projects)**
+<br/>**[EXERCISES](#exercises)**
+<br/>**[MISC REFERENCE](#misc-reference)**
+<br/>**[JAVASCRIPT REFERENCE](#javascript-reference)**
+<br/>**[CSS REFERENCE](#css-reference)**
+<br/>**[READING](#reading)**
+<br/>**[JAVASCRIPT READING](#javascript-reading)**
+<br/>**[JAVASCRIPT STYLE GUIDES](#javascript-style-guides)**
+<br/>**[PODCASTS](#podcasts)**
+<br/>**[MEDIA](#media)**
+<br/>**[BLOGS](#blogs)**
+<br/>**[TUTORIALS](#tutorials)**
+<br/>**[COOL STUFF](#cool-stuff)**
+<br/>**[FREE COMPUTER SCIENCE COURSES](#free-computer-science-courses)**
+<br/>**[MORE COURSES](#more-courses)**
+
 ## DOCS
 
 **Devdocs.io**
@@ -219,6 +238,12 @@
 <br/>https://reactforbeginners.com/
 
 ## COOL STUFF
+
+**Recurse Center**
+<br/>https://www.recurse.com/
+
+**Launch School**
+<br/>https://launchschool.com/
 
 **Updog - Free and Cheap Web Hosting**
 <br/>https://updog.co/
