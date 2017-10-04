@@ -130,6 +130,14 @@ A collection of web resources and favorites
 **Scalable, Modular CSS Architecture**
 <br/>https://smacss.com/
 
+**Flexbox**
+<br/>https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+<br/>https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
+
+**Grid**
+<br/>https://css-tricks.com/snippets/css/complete-guide-grid/
+<br/>https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+
 ## READING
 
 **Free Programming Books**
