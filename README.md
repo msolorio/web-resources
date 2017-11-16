@@ -25,7 +25,7 @@ A collection of web resources and favorites
 **Devdocs.io**
 <br/>http://devdocs.io/
 
-:star: **MDN JavaScript Docs**
+**MDN JavaScript Docs**
 <br/>https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 **React Docs**
@@ -36,6 +36,21 @@ A collection of web resources and favorites
 
 **React Router Docs**
 <br/>https://reacttraining.com/react-router/
+
+**Lodash Docs**
+<br/>https://lodash.com/docs/
+
+**Elm Docs**
+<br/>http://elm-lang.org/
+
+**Python 3 Docs**
+<br/>https://docs.python.org/3/
+
+**Django Docs**
+<br/>https://docs.djangoproject.com/en/
+
+**Tensor Flow Homepage**
+<br/>https://www.tensorflow.org/
 
 **Webpack Docs**
 <br/>https://webpack.github.io/docs/
@@ -51,6 +66,9 @@ A collection of web resources and favorites
 
 **Passport Docs**
 <br/>https://passportjs.org/docs
+
+**Styled Components Docs**
+<br/>https://www.styled-components.com/
 
 ## PROJECTS
 
