@@ -164,13 +164,17 @@ A collection of web resources and favorites
 **Learn Web Development - MDN**
 <br/>https://developer.mozilla.org/en-US/docs/Learn
 
-**Server-side Website Programming - MDN**
+:star: **Server-side Website Programming - MDN**
 <br/>https://developer.mozilla.org/en-US/docs/Learn/Server-side
 
 **Launch School Bookshelf**
 <br/>https://launchschool.com/books/
 
+
 ## JAVASCRIPT READING
+
+:star: **Express Js Guide**
+<br/>https://web.archive.org/web/20140621124403/https://leanpub.com/express/read
 
 **Learning JavaScript Design Patterns - Addy Osmani**
 <br/>https://addyosmani.com/resources/essentialjsdesignpatterns/book/
