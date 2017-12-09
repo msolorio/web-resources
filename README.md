@@ -170,14 +170,16 @@ A collection of web resources and favorites
 **Launch School Bookshelf**
 <br/>https://launchschool.com/books/
 
-
 ## JAVASCRIPT READING
 
-:star: **Express Js Guide**
+:star: **Express Js Guide - Azat Mardan**
 <br/>https://web.archive.org/web/20140621124403/https://leanpub.com/express/read
 
 **Learning JavaScript Design Patterns - Addy Osmani**
 <br/>https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
+**Felix's Node.js Guide**
+<br/>http://nodeguide.com 
 
 **JavaScript Enlightenment - Cody Lindley - JavaScript Objects**
 <br/>http://www.javascriptenlightenment.com/
@@ -216,7 +218,7 @@ A collection of web resources and favorites
 
 ## PODCASTS
 
-:star: **Freelancer Podcast**
+**Freelancer Podcast**
 <br/>https://devchat.tv/freelancers/
 
 **Javascript Air podcast**
