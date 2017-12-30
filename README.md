@@ -164,11 +164,14 @@ A collection of web resources and favorites
 **Learn Web Development - MDN**
 <br/>https://developer.mozilla.org/en-US/docs/Learn
 
-:star: **Server-side Website Programming - MDN**
+**Server-side Website Programming - MDN**
 <br/>https://developer.mozilla.org/en-US/docs/Learn/Server-side
 
 **Launch School Bookshelf**
 <br/>https://launchschool.com/books/
+
+:star: **Best Practices for Designing a Pragmatic RESTful API**
+<br/>http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 
 ## JAVASCRIPT READING
 
@@ -179,7 +182,7 @@ A collection of web resources and favorites
 <br/>https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
 **Felix's Node.js Guide**
-<br/>http://nodeguide.com 
+<br/>http://nodeguide.com
 
 **JavaScript Enlightenment - Cody Lindley - JavaScript Objects**
 <br/>http://www.javascriptenlightenment.com/
