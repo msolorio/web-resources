@@ -297,6 +297,9 @@ A collection of web resources and favorites
 
 ## FREE COMPUTER SCIENCE COURSES
 
+**Introduction to Computer Science using Java - Bradley Kjell, Central Connecticut State University**
+<br/>https://chortle.ccsu.edu/CS151/cs151java.html
+
 **Stanford Engineering Everywhere**
 <br/>https://see.stanford.edu/Course#Introduction%20to%20Computer%20Science
 
