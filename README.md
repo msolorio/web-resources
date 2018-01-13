@@ -175,7 +175,7 @@ A collection of web resources and favorites
 
 ## JAVASCRIPT READING
 
-:star: **Express Js Guide - Azat Mardan**
+**Express Js Guide - Azat Mardan**
 <br/>https://web.archive.org/web/20140621124403/https://leanpub.com/express/read
 
 **Learning JavaScript Design Patterns - Addy Osmani**
@@ -245,6 +245,9 @@ A collection of web resources and favorites
 
 **medium.com - JavaScript Scene**
 <br/>https://medium.com/javascript-scene
+
+:star: **RisingStack Blog**
+<br/>https://blog.risingstack.com/
 
 **Perfection Skills - by Kangax**
 <br/>http://perfectionkills.com
