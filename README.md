@@ -175,6 +175,15 @@ A collection of web resources and favorites
 
 ## JAVASCRIPT READING
 
+**Secrets of the JavaScript Ninja, 2013 ed. - John Resig, Bear Bibeault**
+<br/>https://the-eye.eu/public/Books/IT%20Various/secrets_of_the_javascript_ninja.pdf
+
+**Functional Light Js - Kyle Simpson**
+<br/>https://github.com/getify/Functional-Light-JS
+
+**You Don’t Know Js - Kyle Simpson**
+<br/>https://github.com/getify/You-Dont-Know-JS/
+
 **Express Js Guide - Azat Mardan**
 <br/>https://web.archive.org/web/20140621124403/https://leanpub.com/express/read
 
@@ -186,9 +195,6 @@ A collection of web resources and favorites
 
 **JavaScript Enlightenment - Cody Lindley - JavaScript Objects**
 <br/>http://www.javascriptenlightenment.com/
-
-**You Don’t Know Js - Kyle Simpson**
-<br/>https://github.com/getify/You-Dont-Know-JS/
 
 **Speaking JavaScript - Axel Rauschmayer**
 <br/>http://exploringjs.com/
