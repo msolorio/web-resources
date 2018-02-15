@@ -178,6 +178,9 @@ A collection of web resources and favorites
 **Secrets of the JavaScript Ninja, 2013 ed. - John Resig, Bear Bibeault**
 <br/>https://the-eye.eu/public/Books/IT%20Various/secrets_of_the_javascript_ninja.pdf
 
+**Learning JavaScript Design Patterns - Addy Osmani**
+<br/>https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
 **Functional Light Js - Kyle Simpson**
 <br/>https://github.com/getify/Functional-Light-JS
 
@@ -186,9 +189,6 @@ A collection of web resources and favorites
 
 **Express Js Guide - Azat Mardan**
 <br/>https://web.archive.org/web/20140621124403/https://leanpub.com/express/read
-
-**Learning JavaScript Design Patterns - Addy Osmani**
-<br/>https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
 **Felix's Node.js Guide**
 <br/>http://nodeguide.com
@@ -305,6 +305,15 @@ A collection of web resources and favorites
 <br/>https://updog.co/
 
 ## FREE COMPUTER SCIENCE COURSES
+
+**Computer Science for Business Leaders - David Malan, Harvard**
+<br/>https://www.youtube.com/playlist?list=PLhQjrBD2T380__RF39DIEXx0QSv9pU1iL
+
+**Introcduction to Computer Science and Programming in Python, 6.001 - MITx**
+<br/>https://www.youtube.com/playlist?list=PLyn5LaVca46lg_cV2mjm8fKiJDlyNFGvi
+
+**Introduction to Computer Science and Electrical Engineering - MIT**
+<br/>https://www.youtube.com/playlist?list=PL9B24A6A9D5754E70
 
 **Introduction to Computer Science using Java - Bradley Kjell, Central Connecticut State University**
 <br/>https://chortle.ccsu.edu/CS151/cs151java.html
