@@ -14,6 +14,7 @@ A collection of web resources and favorites
 <br/>**[JAVASCRIPT STYLE GUIDES](#javascript-style-guides)**
 <br/>**[PODCASTS](#podcasts)**
 <br/>**[MEDIA](#media)**
+<br/>**[CURRENT EVENTS](#current-events)**
 <br/>**[BLOGS](#blogs)**
 <br/>**[TUTORIALS](#tutorials)**
 <br/>**[COOL STUFF](#cool-stuff)**
@@ -244,16 +245,30 @@ A collection of web resources and favorites
 **video source - archive.org**
 <br/>https://archive.org/
 
-## BLOGS
+## CURRENT EVENTS
+
+**Tech Chrunch**
+<br/>https://techcrunch.com/
 
 **medium.com**
 <br/>https://medium.com/
 
+**Hacker Noon**
+<br/>https://hackernoon.com/
+
+**Hacker News**
+<br/>https://news.ycombinator.com/
+
+**The Register**
+<br/>https://www.theregister.co.uk/
+
 **medium.com - JavaScript Scene**
 <br/>https://medium.com/javascript-scene
 
-:star: **RisingStack Blog**
+**RisingStack Blog**
 <br/>https://blog.risingstack.com/
+
+## BLOGS
 
 **Perfection Skills - by Kangax**
 <br/>http://perfectionkills.com
