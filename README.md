@@ -126,10 +126,13 @@ A collection of web resources and favorites
 
 ## JAVASCRIPT REFERENCE
 
+**JavaScript Docs - MDN**
+<br/>https://developer.mozilla.org/en-US/docs/Web/javascript
+
 **ES6**
 <br/>http://wiki.ecmascript.org/doku.php?id=harmony:proposals
 
-**javaScript Event Keycodes**
+**JavaScript Event Keycodes**
 <br/>http://keycode.info/
 
 **lifecycle events in react**
