@@ -11,6 +11,7 @@ A collection of web resources and favorites
 <br/>**[CSS REFERENCE](#css-reference)**
 <br/>**[READING](#reading)**
 <br/>**[JAVASCRIPT READING](#javascript-reading)**
+<br/>**[PYTHON READING](#python-reading)**
 <br/>**[JAVASCRIPT STYLE GUIDES](#javascript-style-guides)**
 <br/>**[PODCASTS](#podcasts)**
 <br/>**[MEDIA](#media)**
@@ -214,6 +215,17 @@ A collection of web resources and favorites
 
 **Developing Backbone.js Applications - Addy Osmani**
 <br/>https://addyosmani.com/backbone-fundamentals/
+
+## PYTHON READING
+
+**Automate the Boring Stuff with Python**
+<br/>https://automatetheboringstuff.com/2e/chapter0/
+
+**Cracking Codes with Python**
+<br/>http://inventwithpython.com/cracking/
+
+**Invent Your Own Computer Games with Python**
+<br/>http://inventwithpython.com/invent4thed/
 
 ## JAVASCRIPT STYLE GUIDES
 
