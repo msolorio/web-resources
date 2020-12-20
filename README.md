@@ -175,22 +175,22 @@ A collection of web resources and favorites
 **Launch School Bookshelf**
 <br/>https://launchschool.com/books/
 
-:star: **Best Practices for Designing a Pragmatic RESTful API**
+**Best Practices for Designing a Pragmatic RESTful API**
 <br/>http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 
 ## JAVASCRIPT READING
+
+**You Don’t Know Js - Kyle Simpson**
+<br/>https://github.com/getify/You-Dont-Know-JS/
+
+**Functional Light Js - Kyle Simpson**
+<br/>https://github.com/getify/Functional-Light-JS
 
 **Secrets of the JavaScript Ninja, 2013 ed. - John Resig, Bear Bibeault**
 <br/>https://the-eye.eu/public/Books/IT%20Various/secrets_of_the_javascript_ninja.pdf
 
 **Learning JavaScript Design Patterns - Addy Osmani**
 <br/>https://addyosmani.com/resources/essentialjsdesignpatterns/book/
-
-**Functional Light Js - Kyle Simpson**
-<br/>https://github.com/getify/Functional-Light-JS
-
-**You Don’t Know Js - Kyle Simpson**
-<br/>https://github.com/getify/You-Dont-Know-JS/
 
 **Express Js Guide - Azat Mardan**
 <br/>https://web.archive.org/web/20140621124403/https://leanpub.com/express/read
